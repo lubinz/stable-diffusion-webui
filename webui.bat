@@ -1,5 +1,5 @@
 @echo off
-
+PYTORCH_CUDA_ALLOC_CONF=max_split_size_mb:32
 if exist webui.settings.bat (
     call webui.settings.bat
 )

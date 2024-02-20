@@ -1,0 +1,9 @@
+Looking in indexes: https://mirror.baidu.com/pypi/simple
+Looking in links: https://mirror.sjtu.edu.cn/pytorch-wheels/torch_stable.html, https://mirrors.aliyun.com/pytorch-wheels/torch_stable.html, https://www.modelscope.cn/api/v1/studio/hanamizukiai/resolver/gradio/pypi-index/index.html
+Requirement already satisfied: boto3 in e:\kuake\夸克sd\sd4.6.7\sd-webui-aki-v4.6\sd-webui-aki-v4.6\python\lib\site-packages (1.28.40)
+Requirement already satisfied: botocore<1.32.0,>=1.31.40 in e:\kuake\夸克sd\sd4.6.7\sd-webui-aki-v4.6\sd-webui-aki-v4.6\python\lib\site-packages (from boto3) (1.31.40)
+Requirement already satisfied: jmespath<2.0.0,>=0.7.1 in e:\kuake\夸克sd\sd4.6.7\sd-webui-aki-v4.6\sd-webui-aki-v4.6\python\lib\site-packages (from boto3) (0.10.0)
+Requirement already satisfied: s3transfer<0.7.0,>=0.6.0 in e:\kuake\夸克sd\sd4.6.7\sd-webui-aki-v4.6\sd-webui-aki-v4.6\python\lib\site-packages (from boto3) (0.6.2)
+Requirement already satisfied: python-dateutil<3.0.0,>=2.1 in e:\kuake\夸克sd\sd4.6.7\sd-webui-aki-v4.6\sd-webui-aki-v4.6\python\lib\site-packages (from botocore<1.32.0,>=1.31.40->boto3) (2.8.2)
+Requirement already satisfied: urllib3<1.27,>=1.25.4 in e:\kuake\夸克sd\sd4.6.7\sd-webui-aki-v4.6\sd-webui-aki-v4.6\python\lib\site-packages (from botocore<1.32.0,>=1.31.40->boto3) (1.26.15)
+Requirement already satisfied: six>=1.5 in e:\kuake\夸克sd\sd4.6.7\sd-webui-aki-v4.6\sd-webui-aki-v4.6\python\lib\site-packages (from python-dateutil<3.0.0,>=2.1->botocore<1.32.0,>=1.31.40->boto3) (1.16.0)

@@ -1,0 +1,7 @@
+Looking in indexes: https://mirror.baidu.com/pypi/simple
+Looking in links: https://mirror.sjtu.edu.cn/pytorch-wheels/torch_stable.html, https://mirrors.aliyun.com/pytorch-wheels/torch_stable.html, https://www.modelscope.cn/api/v1/studio/hanamizukiai/resolver/gradio/pypi-index/index.html
+Requirement already satisfied: requests in e:\kuake\夸克sd\sd4.6.7\sd-webui-aki-v4.6\sd-webui-aki-v4.6\python\lib\site-packages (2.25.1)
+Requirement already satisfied: chardet<5,>=3.0.2 in e:\kuake\夸克sd\sd4.6.7\sd-webui-aki-v4.6\sd-webui-aki-v4.6\python\lib\site-packages (from requests) (4.0.0)
+Requirement already satisfied: idna<3,>=2.5 in e:\kuake\夸克sd\sd4.6.7\sd-webui-aki-v4.6\sd-webui-aki-v4.6\python\lib\site-packages (from requests) (2.10)
+Requirement already satisfied: urllib3<1.27,>=1.21.1 in e:\kuake\夸克sd\sd4.6.7\sd-webui-aki-v4.6\sd-webui-aki-v4.6\python\lib\site-packages (from requests) (1.26.15)
+Requirement already satisfied: certifi>=2017.4.17 in e:\kuake\夸克sd\sd4.6.7\sd-webui-aki-v4.6\sd-webui-aki-v4.6\python\lib\site-packages (from requests) (2023.5.7)
